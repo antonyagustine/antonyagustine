@@ -1,7 +1,7 @@
 ### Hi there 👋 this is Antony
 
 - 🌱 [My Profile](https://github.com/antonyagustine/cv/blob/main/readme.md)
-- 👨‍💻 As a Senior Software Engineer | Technical Architect | Full Stack Developer, I have worked and experienced with various technologies such as Nodejs, PHP, Vue.js, React, Typescript, Python and Golang etc.,
+- 👨‍💻 As a Senior Software Engineer | Lead Software Engineer | Full Stack Developer | Technical Architect, I have worked and experienced with various technologies such as Nodejs, PHP, Vue.js, React, Typescript, Python and Golang etc.,
 - 📫 How to reach me: antonyagustineraj@gmail.com
 - 💬 Linkedin: https://www.linkedin.com/in/antony-agustine-raj/
 
