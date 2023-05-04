@@ -11,4 +11,4 @@
 
 | .                                                                                                                                       | .                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![Madhav's github stats](https://github-readme-stats.vercel.app/api?username=antonyagustine&show_icons=true&theme=radical&include_all_commits=true)| ![Github stats](https://github-readme-streak-stats.herokuapp.com/?user=antonyagustine) |
+| ![Antony's GitHub stats](https://github-readme-stats.vercel.app/api?username=antonyagustine&count_private=true&show_icons=true&theme=dark)| ![Github stats](https://github-readme-streak-stats.herokuapp.com/?user=antonyagustine&theme=dark) |
