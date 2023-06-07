@@ -1,6 +1,6 @@
 ### Hi there 👋 this is Antony
 
-- 🌱 [My Profile](https://github.com/antonyagustine/cv/blob/main/readme.md)
+<!--- - 🌱 [My Profile](https://github.com/antonyagustine/cv/blob/main/readme.md) -->
 - 👨‍💻 In my role as a software engineer, I have gained hands-on experience working with a diverse range of technologies including Node.js, PHP, Vue.js, React, Typescript, Python, Golang, and more.
 - 📫 How to reach me: antonyagustineraj@gmail.com
 - 💬 Linkedin: https://www.linkedin.com/in/antony-agustine-raj/
