@@ -22,4 +22,4 @@ You can find all my projects on my GitHub profile: [Antony's GitHub](https://git
 ## Blog
 I share my insights and experiences on software development on my [Medium blog](https://medium.com/@antonyagustineraj).
 
-Feel free to reach out to me via 📫 email or 💬 LinkedIn for any inquiries or collaboration opportunities!
+Feel free to reach out to me via 📫 email or 💬 [LinkedIn](https://www.linkedin.com/in/antony-agustine-raj/) for any inquiries or collaboration opportunities!
