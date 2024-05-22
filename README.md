@@ -2,10 +2,10 @@
 # Hello, I'm Antony! 👋
 
 ## About Me
-I'm a senior software engineer with extensive experience in developing scalable and efficient applications. My expertise lies in technologies like JavaScript/TypeScript, Node.js, Golang, Scala, PHP, Python, Vue.js, React, GraphQL, and REST.
+I'm a Technical Lead/Senior software engineer with extensive experience in developing scalable and efficient applications. My expertise lies in technologies like JavaScript/TypeScript, Node.js, Golang, Scala, PHP, Python, Vue.js, React, GraphQL, and REST.
 
 ## Work
-In my current role as a senior software engineer, I am involved in designing and developing complex systems to meet business requirements, mentoring junior developers, and collaborating with cross-functional teams to deliver high-quality software solutions.
+In my current role as a Technical Lead/senior fullstack engineer, I am involved in designing and developing complex systems to meet business requirements, and collaborating with cross-functional teams to deliver high-quality software solutions.
 
 ## Contact
 📧 Email: antonyagustineraj@gmail.com  
